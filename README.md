@@ -1,0 +1,1 @@
+A Java Swing application that is connected to the MySQL database. It contains a small telephone exchange that contains an operator, a client and registers calls. It is capable of registering the date of the call as well as the client's response, then deleting and adding clients, operators and calls.
